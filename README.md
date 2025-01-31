@@ -21,9 +21,12 @@ node app.js
 
 ## API Documentation
 #### GET /
-returns a JSON response:
-{
+returns a JSON response (200):
+```{
  "email":"danielmwihoti@gmail.com",
  "current_datetime":"2025-01-31T02:31:56.812Z",
  github_url":"https://github.com/mwihoti/HNGTask0"
 }
+```
+
+Node.js: https://hng.tech/hire/nodejs-developers
