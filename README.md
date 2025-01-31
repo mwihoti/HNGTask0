@@ -23,7 +23,7 @@ node app.js
 #### GET /
 returns a JSON response:
 {
-  "email": "your-email@example.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "<https://github.com/yourusername/your-repo>"
+ "email":"danielmwihoti@gmail.com",
+ "current_datetime":"2025-01-31T02:31:56.812Z",
+ github_url":"https://github.com/mwihoti/HNGTask0"
 }
